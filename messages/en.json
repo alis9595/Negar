@@ -1,0 +1,125 @@
+{
+  "LocaleSwitcher": {
+    "fa": "Persian",
+    "en": "English",
+    "label": "Language"
+  },
+  "Direction": { "dir": "ltr" },
+  "OrgSidebar": {
+    "teamBoards": "Team boards",
+    "favBoards": "Favorite boards"
+  },
+  "Header": {
+    "search": {
+      "placeholder": "Search ..."
+    },
+    "invite": {
+      "label": "Invite members"
+    }
+  },
+  "Main": {
+    "welcome": {
+      "title": "Welcome to Boardocs",
+      "discription": "Create an organization to get started",
+      "button": "Create organization"
+    }
+  },
+  "Names": {
+    "title": "title"
+  },
+  "Errors": {
+    "unAuthorized": "Unauthorized",
+    "required": "{name} is required",
+    "maxCharacter": "{name} can't be more than {number} characters"
+  },
+  "Sidebar": {
+    "newButtonHint": "Create a new organization"
+  },
+  "NoResult": {
+    "title": "No results fount!",
+    "subtitle": "Try searching for something else."
+  },
+  "NoFavorites": {
+    "title": "No favorite boards!",
+    "subtitle": "Try favotiting a board"
+  },
+  "NoBoards": {
+    "title": "Create your first board!",
+    "subtitle": "Start by creating a board for your organization.",
+    "btn": "Create board",
+    "success": "Board is created successfully",
+    "failure": "Failed to create the board"
+  },
+  "BoardsList": {
+    "teamBoards": "Team Boards",
+    "favBoards": "Favorite Boards"
+  },
+  "BoardCard": {
+    "you": "You",
+    "favFailure": "Failed to favorite",
+    "unFavFailure": "Failed to unfavorite"
+  },
+  "NewBoardBtn": {
+    "newBoard": "New Board",
+    "success": "Board is created successfully",
+    "failure": "Failed to create the board"
+  },
+  "Actions": {
+    "copyLink": "Copy link",
+    "copySuccess": "Link copied",
+    "copyFailure": "Failed to copy link",
+    "delete": "Delete",
+    "deleteSuccess": "Board deleted successfully",
+    "deleteFailure": "Failed to delete the board",
+    "deleteModalHeader": "Delete board?",
+    "deleteModalDescription": "This will delete the board and all of it's contents.",
+    "rename": "Rename"
+  },
+  "Modals": {
+    "Confirm": {
+      "cancel": "Cancel",
+      "confirm": "Confirm"
+    },
+    "Rename": {
+      "title": "Edit board title",
+      "description": "Enter a new title for this board",
+      "placeholder": "Board title",
+      "cancel": "Cancel",
+      "save": "Save",
+      "renameSuccess": "Board title changed successfully",
+      "renameFailure": "Failed to change the board title"
+    }
+  },
+  "Cnavas": {
+    "info": {
+      "logoHint": "Home",
+      "titleHint": "Edit title",
+      "menuHint": "Menu"
+    }
+  },
+  "Avatar": {
+    "ananymous": "Ananymous"
+  },
+  "Participants": {
+    "more": "more"
+  },
+  "Toolbar": {
+    "select": "Select",
+    "type": "Type",
+    "sticker": "Sticker",
+    "rectangle": "Rectangle",
+    "ellipse": "Ellipse",
+    "pen": "Pen",
+    "undo": "Undo",
+    "redo": "Redo"
+  },
+  "SelectionTools": {
+    "delete": {
+      "delete": "Delete"
+    },
+    "layer": {
+      "bringToFront": "Bring to Front",
+      "sendToBack": "Send to Back"
+    }
+  }
+}

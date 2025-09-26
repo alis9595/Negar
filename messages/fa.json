@@ -1,0 +1,125 @@
+{
+  "LocaleSwitcher": {
+    "fa": "فارسی",
+    "en": "انگلیسی",
+    "label": "زبان"
+  },
+  "Direction": { "dir": "rtl" },
+  "OrgSidebar": {
+    "teamBoards": "نگاره‌های تیم",
+    "favBoards": "نگاره‌های موردعلاقه"
+  },
+  "Header": {
+    "search": {
+      "placeholder": "جستجو ..."
+    },
+    "invite": {
+      "label": "دعوت از اعضا"
+    }
+  },
+  "Main": {
+    "welcome": {
+      "title": "به بورداکس خوش آمدید",
+      "discription": "برای شروع ابتدا یک سازمان بسازید",
+      "button": "ایجاد سازمان"
+    }
+  },
+  "Names": {
+    "title": "عنوان"
+  },
+  "Errors": {
+    "unAuthorized": "غیر مجاز",
+    "required": "وارد کردن {name} ضروری است",
+    "maxCharacter": "{name} نمی‌تواند بیشتر از {number} کاراکتر داشته باشد"
+  },
+  "Sidebar": {
+    "newButtonHint": "ایجاد یک سازمان جدید"
+  },
+  "NoResult": {
+    "title": "هیچ نتیجه‌ای پیدا نشد!",
+    "subtitle": "کلمه دیگری را جستجو نمایید."
+  },
+  "NoFavorites": {
+    "title": "نگاره مورد علاقه‌ای ندارید!",
+    "subtitle": "نگاره‌ای را به لیست مورد علاقه‌ها اضافه نمایید."
+  },
+  "NoBoards": {
+    "title": "اولین نگاره خود را بسازید!",
+    "subtitle": "با ساختن یک نگاره برای سازمان خود شروع کنید.",
+    "btn": "ساخت نگاره",
+    "success": "نگاره با موفقیت ساخته شد",
+    "failure": "مشکلی در ساخت نگاره به‌وجود آمد"
+  },
+  "BoardsList": {
+    "teamBoards": "نگاره‌ها",
+    "favBoards": "نگاره‌های موردعلاقه"
+  },
+  "BoardCard": {
+    "you": "شما",
+    "favFailure": "افزودن به موردعلاقه‌ها ناموفق بود",
+    "unFavFailure": "حذف از موردعلاقه‌ها ناموفق بود"
+  },
+  "NewBoardBtn": {
+    "newBoard": "نگاره جدید",
+    "success": "نگاره با موفقیت ساخته شد",
+    "failure": "مشکلی در ساخت نگاره به‌وجود آمد"
+  },
+  "Actions": {
+    "copyLink": "کپی لینک",
+    "copySuccess": "لینک کپی شد",
+    "copyFailure": "لینک کپی نشد",
+    "delete": "حذف",
+    "deleteSuccess": "نگاره با موفقیت حذف شد",
+    "deleteFailure": "حذف نگاره موردنظر ناموفق بود",
+    "deleteModalHeader": "حذف نگاره؟",
+    "deleteModalDescription": "در صورت تائید نگاره و تمامی محتوای آن حذف خواهد شد.",
+    "rename": "ویرایش عنوان"
+  },
+  "Modals": {
+    "Confirm": {
+      "cancel": "انصراف",
+      "confirm": "تائید"
+    },
+    "Rename": {
+      "title": "ویرایش عنوان نگاره",
+      "description": "یک نام جدید برای این نگاره وارد نمایید",
+      "placeholder": "عنوان نگاره",
+      "cancel": "انصراف",
+      "save": "تائید",
+      "renameSuccess": "عنوان نگاره با موفقیت تغییر یافت",
+      "renameFailure": "ویرایش عنوان نگاره موردنظر ناموفق بود"
+    }
+  },
+  "Cnavas": {
+    "info": {
+      "logoHint": "خانه",
+      "titleHint": "ویرایش عنوان",
+      "menuHint": "منو"
+    }
+  },
+  "Avatar": {
+    "ananymous": "بدون نام"
+  },
+  "Participants": {
+    "more": "دیگر"
+  },
+  "Toolbar": {
+    "select": "انتخاب",
+    "type": "یادداشت",
+    "sticker": "برچسب",
+    "rectangle": "مستطیل",
+    "ellipse": "منحنی",
+    "pen": "قلم",
+    "undo": "بازانجام",
+    "redo": "ناانجام"
+  },
+  "SelectionTools": {
+    "delete": {
+      "delete": "حذف"
+    },
+    "layer": {
+      "bringToFront": "به جلو آوردن",
+      "sendToBack": "به عقب فرستادن"
+    }
+  }
+}
